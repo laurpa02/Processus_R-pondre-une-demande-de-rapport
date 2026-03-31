@@ -4480,7 +4480,7 @@ body.off-canvas {
   position: relative;
   width: 99%;
   background-color: rgba(255, 255, 255, 0.2);
-  background-image: url("../img/pattern.png");
+  background-image: url(../img/pattern.png);
   text-align: center;
 }
 
@@ -5228,7 +5228,7 @@ img.biz-ex-diagram-image {
 
 /* line 1588, ../../sass/_export.scss */
 .bz-icon-maximize-outline {
-  background: url("../img/icn-expand.png");
+  background: url(../img/icn-expand.png);
   width: 16px;
   height: 16px;
   display: inline-block;
@@ -5237,7 +5237,7 @@ img.biz-ex-diagram-image {
 
 /* line 1596, ../../sass/_export.scss */
 .bz-icon-minimize-outline {
-  background: url("../img/icn-maximize.png");
+  background: url(../img/icn-maximize.png);
   width: 16px;
   height: 16px;
   display: inline-block;
@@ -5246,7 +5246,7 @@ img.biz-ex-diagram-image {
 
 /* line 1604, ../../sass/_export.scss */
 [class*="biz-ex-icon"] {
-  background-image: url("../img/biz-ex-sprite-icons.png");
+  background-image: url(../img/biz-ex-sprite-icons.png);
   background-repeat: no-repeat;
   width: 24px;
   height: 24px;
@@ -5255,7 +5255,7 @@ img.biz-ex-diagram-image {
 
 /* line 1612, ../../sass/_export.scss */
 [class*="biz-ex-iconbrowser"] {
-  background-image: url("../img/supported-browsers.png");
+  background-image: url(../img/supported-browsers.png);
   background-repeat: no-repeat;
   width: 35px;
   height: 35px;
@@ -5265,7 +5265,7 @@ img.biz-ex-diagram-image {
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
   /* line 1622, ../../sass/_export.scss */
   [class*="biz-ex-icon"] {
-    background-image: url("../img/biz-ex-sprite-icons-2x.png");
+    background-image: url(../img/biz-ex-sprite-icons-2x.png);
     background-size: 113px 491px;
   }
 }
@@ -5426,21 +5426,21 @@ img.biz-ex-diagram-image {
 
 /* line 1749, ../../sass/_export.scss */
 .biz-ex-icon-image {
-  background: url("../img/open-image.svg");
+  background: url(../img/open-image.svg);
   width: 24px;
   height: 24px;
 }
 
 /* line 1755, ../../sass/_export.scss */
 .biz-ex-icon-file {
-  background: url("../img/open-image.svg");
+  background: url(../img/open-image.svg);
   width: 24px;
   height: 24px;
 }
 
 /* line 1761, ../../sass/_export.scss */
 .biz-ex-icon-attach {
-  background: url("../img/biz-ex-icon-attach.svg");
+  background: url(../img/biz-ex-icon-attach.svg);
   width: 24px;
   height: 24px;
 }
@@ -5455,14 +5455,14 @@ img.biz-ex-diagram-image {
 
 /* line 1774, ../../sass/_export.scss */
 .biz-ex-icon-attach-active {
-  background: url("../img/biz-ex-icon-attach-active.svg") !important;
+  background: url(../img/biz-ex-icon-attach-active.svg) !important;
   width: 24px;
   height: 24px;
 }
 
 /* line 1780, ../../sass/_export.scss */
 .biz-ex-icon-attach-default {
-  background: url("../img/biz-ex-icon-attach-disabled.svg");
+  background: url(../img/biz-ex-icon-attach-disabled.svg);
   width: 24px;
   height: 24px;
   margin-right: 5px;
@@ -6053,13 +6053,13 @@ img.biz-ex-diagram-image {
 /* line 2273, ../../sass/_export.scss */
 .biz-ex-icon-url,
 .biz-ex-icon-url:hover.biz-ex-icon-url:hover {
-  background: url("../img/open-link.svg");
+  background: url(../img/open-link.svg);
 }
 
 /* line 2278, ../../sass/_export.scss */
 .biz-ex-icon-text,
 .biz-ex-icon-text:hover {
-  background: url("../img/open-text.svg");
+  background: url(../img/open-text.svg);
 }
 
 /* line 2283, ../../sass/_export.scss */
@@ -6390,7 +6390,7 @@ img.biz-ex-diagram-image {
 
 /* line 2553, ../../sass/_export.scss */
 .isLocal .biz-ex-search-options {
-  background: transparent url("../img/bgn-search.png");
+  background: transparent url(../img/bgn-search.png);
 }
 
 /* line 2557, ../../sass/_export.scss */
@@ -7001,12 +7001,12 @@ div.biz-ex-poly-inside:hover + .biz-ex-element-actions,
 
 /* line 323, ../../sass/_zoomer.scss */
 .biz-ex-icon-go-process {
-  background: url("../img/open-subprocess.svg");
+  background: url(../img/open-subprocess.svg);
 }
 
 /* line 327, ../../sass/_zoomer.scss */
 .zoom-hotspot:hover {
-  background-image: url("../img/pattern.png");
+  background-image: url(../img/pattern.png);
   background-color: rgba(231, 82, 0, 0.1);
   border: 1px solid rgba(231, 82, 0, 0.5);
 }
@@ -7019,14 +7019,14 @@ div.biz-ex-poly-inside:hover + .biz-ex-element-actions,
 
 /* line 338, ../../sass/_zoomer.scss */
 .biz-ex-shape-poly:hover > div.biz-ex-poly-inside {
-  background-image: url("../img/pattern.png");
+  background-image: url(../img/pattern.png);
   background-color: rgba(231, 82, 0, 0.1);
   border: 1px solid rgba(231, 82, 0, 0.5);
 }
 
 /* line 344, ../../sass/_zoomer.scss */
 div.biz-ex-poly-inside:hover {
-  background-image: url("../img/pattern.png");
+  background-image: url(../img/pattern.png);
   background-color: rgba(231, 82, 0, 0.1);
   border: 1px solid rgba(231, 82, 0, 0.5);
 }
@@ -7115,18 +7115,18 @@ div.biz-ex-poly-inside:hover {
 
 /* line 420, ../../sass/_zoomer.scss */
 .lt-ie9 .zoom-hotspot {
-  background-image: url("../img/sq.png");
+  background-image: url(../img/sq.png);
 }
 
 /* line 424, ../../sass/_zoomer.scss */
 .lt-ie9 .zoom-hotspot:hover {
-  background-image: url("../img/sq-hover.png");
+  background-image: url(../img/sq-hover.png);
 }
 
 /* line 428, ../../sass/_zoomer.scss */
 .lt-ie9 .reveal-modal-bg {
   background-color: transparent;
-  background-image: url("../img/sq-overlay.png");
+  background-image: url(../img/sq-overlay.png);
 }
 
 .button-paginated{
@@ -7146,22 +7146,22 @@ div.biz-ex-poly-inside:hover {
 }
 
 .button-paginated-end {    
-  background-image: url("../img/pagination-end.svg");
+  background-image: url(../img/pagination-end.svg);
   height: 25px;
   width: 25px;
 }
 .button-paginated-start {
-  background-image: url("../img/pagination-start.svg");
+  background-image: url(../img/pagination-start.svg);
   height: 25px;
   width: 25px;
 }
 .button-paginated-left {
-  background-image: url("../img/pagination-left.svg");
+  background-image: url(../img/pagination-left.svg);
   height:25px;
   width: 25px;
 }
 .button-paginated-right {
-  background-image: url("../img/pagination-right.svg");
+  background-image: url(../img/pagination-right.svg);
   height:25px;
   width: 25px;
 }
